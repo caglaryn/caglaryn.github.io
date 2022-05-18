@@ -1,0 +1,32 @@
+{
+  "Teknolojiblogs": [
+    {
+      "source": "Kafa Kurcalayan",
+      "img": "https://www.kafakurcalayan.com/wp-content/uploads/2021/10/pexels-tima-miroshnichenko-5380602.jpg",
+      "header": "Fn Tuşu Nedir? Fn Tuşu Ne İşe Yarar?",
+      "context": "Basitçe söylemek gerekirse, klavyenin üst kısmındaki F tuşlarıyla birlikte kullanılan Fn tuşu, ekranın parlaklığını kontrol etme, Bluetooth’u açma/kapama, WI-Fi’yi açma/kapatma veya ses açma/kapama gibi işlemler için kısayollar sağlar. Dizüstü bilgisayarlar ekstra özelliklere ve daha küçük klavyelere sahip olduğundan, kullanıcıların dizüstü bilgisayarlarının farklı alanlarını özelleştirmesine olanak tanımak için Fn tuşunun orada olması gerekir. Bir dizüstü bilgisayarda ihtiyacınız olan tüm F tuşları için yeterli alan yoktur, bu nedenle Fn düğmesini kullanarak mevcut işlevlerin miktarını iki katına çıkarırsınız. ",
+      "date": "2021-010-14T10:24:86Z"
+    },
+    {
+      "source": "Kafa Kurcalayan",
+      "img": "https://www.kafakurcalayan.com/wp-content/uploads/2021/02/servis.jpg",
+      "header": "Araç Altı Pütür Atma Uygulaması Nedir ?",
+      "context": "Arabalarınızı 4 mevsim her türlü koşulda kullanıyorsunuz. Fakat hava değişimleri, yağmur, çamur, kar gibi etkenler aracınızın parçalarının eskimesine ve korozyona uğramasına sebep olur. Korozyon fark edilmediğinde ve gerekli bakımlar yapılmadığı takdirde aracınızda çürümeler meydana gelir. Araçlarınızın yıpranmaması için ilk yapılacak şey ise yola yakın olan araç altı pütür uygulaması yapılmalıdır. Araç altı pütür uygulaması ile aracınızın alt kısmını taş parçalarından, korozyona sebep olan mineral tuzlardan ve sürtünmelerden korur. Boyadaki deformasyonları ve aracın altındaki derzleri kapatarak, nemli veya ıslak ortamlarda suyun temasını engeller; böylelikle paslanmaya karşı korur. Araç altı pütür uygulaması; çamurluk, davlumbaz bölümü, bagaj içi, akaryakıt deposu ve çürüyüp onarımı yapılmış yüzeylere uygulanır. Pütür kauçuk reçine yapıya sahiptir. Bu sebeple aşınmalara karşı dayanıklılık sağlar ve elastik yapısı sayesinde çatlama yapmaz.",
+      "date": "2021-12-12T12:12:34Z"
+    },
+    {
+      "source": "Kafa Kurcalayan",
+      "img": "https://www.kafakurcalayan.com/wp-content/uploads/2020/12/python-780x470.jpg",
+      "header": "Python Hesap Makinesi Yapımı",
+      "context": "Python programlama dili dünyada popülerliği oldukça yüksek diller arasına girdi. Bununla beraber bir çok yazılımcı ve yazılım öğrenmek isteyen kişiler bu dili öğrenmeye çaba göstermektedir. Yapay zekadan, makine öğrenmesine, siber güvenlikten, masaüstü uygulamalara kadar pek çok yerde kullanılan Python dili sunduğu geniş çalışma alanları ile avantaj sağlamaktadır. Programlama dili öğrenebilmek için pek çok farklı alıştırma yapmak gerekiyor. Bunların başında da if-else durumlarını kullanarak basit python hesap makinesi yapımı gelmektedir. Bu yazıda python3 kullanarak main fonksiyon içerisinde basit hesap makinesi kodları yazdık.",
+      "date": "2020-09-11T13:17:86Z"
+    },
+    {
+      "source": "Kafa Kurcalayan",
+      "img": "https://www.kafakurcalayan.com/wp-content/uploads/2020/11/avatar-4.jpg",
+      "header": "Oyun Yapma Programları ile Mobil Oyun Nasıl Yapılır?",
+      "context": "Mobil ve bilgisayar oyunları hayatlarımızın büyük çoğunluğunu kapsamaya başladı. İnsanlar eğlence için sosyalleşmek için veya günlük hayatlarındaki sorunlarından uzaklaşmak için oyun oynamayı tercih ediyor. Hal böyle olunca da oyunu oynamak kadar oyunu yaratmak da ayrı bir dünya olmaya başladı. Bu süreçte maden ve madencilerin yanında bir de madenciye kazma kürek satanlar var. Bu kazma kürekler dediğimiz şey ise “Oyun Yapma Programları“. Teknoloji her geçen gün gelişiyor. Oyun yapmak artık eskisi kadar zor değil. Yani madeni kazma kürek ile değil teknoloji ile kazıyoruz artık. Oyun şirketleri de epey çoğaldı. Türkiye’de bu piyasayı yakın takip eden ülkeler arasında. Dünya oyun devi Zynga, geçtiğimiz günlerde Türk firması olan Peak Games’i 1.8 milyar dolar gibi mükemmel bir fiyata satın aldı. Hal böyle olunca da oyun dünyasını keşfetmek, yeni oyunlar çıkartmak isteyen sizler de “Mobil oyun nasıl yapılır ? ” veya “Oyun yapma programları nelerdir ?” gibi soruları sormaya başladınız. Piyasaya bakıldığında pek çok oyun yapma programı mevcut.  Gelin hep beraber sizler için seçtiğimiz 5 mobil oyun yapma programını beraber inceleyelim.  ",
+      "date": "2021-19-18T09:24:86Z"
+    }
+  ]
+}
